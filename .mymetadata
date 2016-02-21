@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="keeSSM"
+  id="myeclipse.1442133111424"
+  context-root="/keeSSM"
+  j2ee-spec="6.0"
+  archive="keeSSM.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
